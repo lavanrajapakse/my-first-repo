@@ -1,3 +1,5 @@
-My first ever commit 
+Master branch change 
 
-My second commit
+bug-fix-1 change
+
+bug-fix-2 change
